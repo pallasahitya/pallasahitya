@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Computer Science undergraduate with experience in software engineering, backend development, and full-stack<br>web applications using Python, FastAPI, React.js, and SQL. Built secure REST APIs, AI-powered applications, and<br>scalable software solutions while strengthening skills in data structures, algorithms, and object-oriented<br>programming. Passionate about solving complex problems, learning new technologies, and developing impactful<br>products that serve users at scale<br>
 
 
