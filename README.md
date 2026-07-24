@@ -9,7 +9,7 @@
 **CS Undergraduate · Software Engineering & AI** | Python · FastAPI · React.js · SQL · JWT · LLM APIs
 
 <a href="https://github.com/pallasahitya">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Building+secure+REST+APIs+with+FastAPI;Shipping+full-stack+apps+with+React+%2B+FastAPI;Exploring+LLMs%2C+RAG+%26+Prompt+Engineering;On+the+road+to+AI+%2B+Cloud+Engineering;150%2B+LeetCode+problems+solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Building+secure+REST+APIs+with+FastAPI;Shipping+full-stack+apps+with+React+%2B+FastAPI;Exploring+LLMs%2C+RAG+%26+Prompt+Engineering;On+the+road+to+AI+%2B+Cloud+Engineering;200%2B+LeetCode+problems+solved" alt="Typing SVG" />
 </a>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallasahitya4@gmail.com)
