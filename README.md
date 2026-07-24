@@ -19,10 +19,6 @@
 
 <br>
 
-![Open to Internships](https://img.shields.io/badge/💼_Internships-Open-success?style=for-the-badge&labelColor=006400)
-![Open Source](https://img.shields.io/badge/🤝_Open_Source-Welcome-FF8C00?style=for-the-badge&labelColor=8B4000)
-![Learning](https://img.shields.io/badge/📚_Currently-AI_%2B_Cloud-4169E1?style=for-the-badge&labelColor=00008B)
-![Remote](https://img.shields.io/badge/🌍_Remote-Friendly-9370DB?style=for-the-badge&labelColor=4B0082)
 
 </div>
 
