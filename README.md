@@ -1,288 +1,291 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,17,23&height=200&section=header&text=Palla%20Sivani%20Sahitya&fontSize=55&fontColor=fff&fontAlignY=35&desc=CS%20Undergraduate%20%7C%20Full-Stack%20%2B%20AI%20Engineer%20%7C%20FastAPI%20%C2%B7%20React%20%C2%B7%20LLMs&descAlignY=58&descSize=17&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=280&section=header&text=SIVANI%20SAHITYA&fontSize=70&fontColor=00F5D4&fontAlignY=38&desc=full-stack%20%2F%2F%20ai%20engineer%20%2F%2F%20building%20in%20public&descAlignY=55&descSize=18&animation=twinkling" width="100%" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
-# 👩‍💻 Palla Sivani Sahitya
-
-**CS Undergraduate · Software Engineering & AI** | Python · FastAPI · React.js · SQL · JWT · LLM APIs
-
-<a href="https://github.com/pallasahitya">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Building+secure+REST+APIs+with+FastAPI;Shipping+full-stack+apps+with+React+%2B+FastAPI;Exploring+LLMs%2C+RAG+%26+Prompt+Engineering;On+the+road+to+AI+%2B+Cloud+Engineering;200%2B+LeetCode+problems+solved" alt="Typing SVG" />
-</a>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallasahitya4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pallasahitya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahityapalla/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sahityapalla/)
+</div>
 
 <br>
 
+<div align="center">
+
+```
+$ whoami
+```
 
 </div>
 
-
----
-
 <div align="center">
 
-### 🧭 Quick Navigation
-
-[👋 About](#-about-me) · [🛠️ Tech Stack](#️-tech-stack) · [🚀 Projects](#-featured-projects) · [💼 Experience](#-experience) · [🏆 Certifications](#-certifications--achievements) · [🗺️ 2026 Roadmap](#️-2026-aicloud-roadmap) · [📊 Stats](#-github-stats)
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=750&lines=root%40pallasahitya%3A~%24+building+secure+APIs+with+FastAPI;root%40pallasahitya%3A~%24+shipping+full-stack+apps+with+React;root%40pallasahitya%3A~%24+exploring+LLMs+%2B+RAG+%2B+prompt+engineering;root%40pallasahitya%3A~%24+200%2B+leetcode+problems+cleared;root%40pallasahitya%3A~%24+status%3A+online" alt="terminal typing" />
 
 </div>
 
----
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,6,12&height=70&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+
+[![Gmail](https://img.shields.io/badge/-pallasahitya4%40gmail.com-0F0C29?style=for-the-badge&logo=gmail&logoColor=00F5D4&labelColor=0F0C29)](mailto:pallasahitya4@gmail.com)
+[![GitHub](https://img.shields.io/badge/-pallasahitya-0F0C29?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=0F0C29)](https://github.com/pallasahitya)
+[![LinkedIn](https://img.shields.io/badge/-sahityapalla-0F0C29?style=for-the-badge&logo=linkedin&logoColor=00F5D4&labelColor=0F0C29)](https://www.linkedin.com/in/sahityapalla/)
+[![LeetCode](https://img.shields.io/badge/-sahityapalla-0F0C29?style=for-the-badge&logo=leetcode&logoColor=00F5D4&labelColor=0F0C29)](https://leetcode.com/u/sahityapalla/)
+
+<img src="https://komarev.com/ghpvc/?username=pallasahitya&label=PROFILE+VIEWS&color=00F5D4&style=for-the-badge&labelColor=0F0C29" />
+
 </div>
 
+<br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,17&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00F5D4,100:302B63&height=2&width=1000" />
 </div>
 
-## 🛠️ Tech Stack
+## ⚡ System Overview
+
+```yaml
+role:        CS Undergraduate · Software Engineering & AI
+focus:       Backend APIs · Full-Stack Apps · Applied LLMs
+currently:   Working through a 10-phase AI/Cloud roadmap → see below
+looking_for: Internships & collaborations in AI + backend engineering
+```
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:302B63,100:00F5D4&height=2&width=1000" />
+</div>
+
+## 🧬 Tech Stack
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,fastapi,sqlite,postgres,git,github,linux,postman,tailwind&theme=dark&perline=7" />
-</a>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,fastapi,sqlite,postgres,git,github,linux,postman,tailwind&theme=dark&perline=7" />
 
 <br><br>
 
-**Languages**
+<table>
+<tr>
+<td valign="top" width="33%">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**〈 languages 〉**
+![Python](https://img.shields.io/badge/Python-0F0C29?style=flat-square&logo=python&logoColor=00F5D4)
+![C++](https://img.shields.io/badge/C++-0F0C29?style=flat-square&logo=c%2B%2B&logoColor=00F5D4)
+![C](https://img.shields.io/badge/C-0F0C29?style=flat-square&logo=c&logoColor=00F5D4)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F0C29?style=flat-square&logo=javascript&logoColor=00F5D4)
 
-**Frameworks & Frontend**
+</td>
+<td valign="top" width="33%">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+**〈 frameworks 〉**
+![FastAPI](https://img.shields.io/badge/FastAPI-0F0C29?style=flat-square&logo=fastapi&logoColor=00F5D4)
+![React](https://img.shields.io/badge/React-0F0C29?style=flat-square&logo=react&logoColor=00F5D4)
+![Tailwind](https://img.shields.io/badge/Tailwind-0F0C29?style=flat-square&logo=tailwind-css&logoColor=00F5D4)
+![Pydantic](https://img.shields.io/badge/Pydantic-0F0C29?style=flat-square&logo=pydantic&logoColor=00F5D4)
 
-**Backend, Data & Tools**
+</td>
+<td valign="top" width="33%">
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**〈 data / infra 〉**
+![JWT](https://img.shields.io/badge/JWT-0F0C29?style=flat-square&logo=jsonwebtokens&logoColor=00F5D4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F0C29?style=flat-square&logo=postgresql&logoColor=00F5D4)
+![SQLite](https://img.shields.io/badge/SQLite-0F0C29?style=flat-square&logo=sqlite&logoColor=00F5D4)
+![Linux](https://img.shields.io/badge/Linux-0F0C29?style=flat-square&logo=linux&logoColor=00F5D4)
 
-**AI / ML**
+</td>
+</tr>
+</table>
 
-![Groq](https://img.shields.io/badge/Groq_LLM_API-F55036?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6366F1?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+**〈 ai / ml 〉**
+
+![Groq](https://img.shields.io/badge/Groq_LLM_API-0F0C29?style=flat-square&logoColor=00F5D4)
+![PyTorch](https://img.shields.io/badge/PyTorch-0F0C29?style=flat-square&logo=pytorch&logoColor=00F5D4)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-0F0C29?style=flat-square&logo=scikit-learn&logoColor=00F5D4)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0F0C29?style=flat-square&logoColor=00F5D4)
 
 </div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,17,23&height=70&section=header&text=Featured%20Projects&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
-
-## 🚀 Featured Projects
-
-<!-- ─────────────────────────────────────────────
-     Add a new project? Copy a row, fill in:
-     Name · description · tech badges · demo · repo link
-───────────────────────────────────────────────── -->
-
-| Project | Description | Tech | Source |
-|---|---|---|---|
-| ✅ **TaskFlow — Full-Stack Task Manager** | Task management app with 11 REST endpoints, JWT auth, bcrypt password hashing, protected routes, and a raw-SQL SQLite schema for users & tasks. React frontend talks to FastAPI via Axios for full CRUD. | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square) | [Repo](https://github.com/pallasahitya/TaskFlow) |
-| 🤖 **AI Study Assistant** | Context-aware study/coding assistant built on the Gemini 2.5 Flash API with prompt engineering, plus a PyMuPDF pipeline that lets it read uploaded PDFs and answer document-grounded questions. React + Tailwind + Framer Motion UI with markdown rendering, syntax-highlighted code, and chat/PDF state management. | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | [Repo](https://github.com/pallasahitya/ai-study-assistant) |
-
-> 📌 More projects are on the way as I move through the roadmap below — resume analyzer, RAG chatbot, and an AI agent system are next up.
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=17,23,2&height=70&section=header&text=Experience&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
-
-## 💼 Experience
-
-**Python Fullstack Developer Intern** — Industry Internship Program `Mar 2026`
-- Developed React UI components integrated with FastAPI backend APIs, implementing form validation and database-driven CRUD operations.
-- Contributed to full-stack application development by designing database schemas, building REST APIs, and implementing responsive frontend features.
-
-**Google AIML Intern** — Industry Internship Program `Dec 2025`
-- Trained and evaluated supervised machine learning models using data preprocessing, feature engineering, cross-validation, and classification metrics.
-- Studied transformer architectures, attention mechanisms, and LLM inference workflows through hands-on implementation and experimentation.
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=23,2,6&height=70&section=header&text=Certifications&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
-
-## 🏆 Certifications & Achievements
-
-![IBM](https://img.shields.io/badge/IBM_SkillBuild-Certified-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-Certified-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
-![GoogleCloud](https://img.shields.io/badge/Google_Cloud_Skills_Boost-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Cognitiveclass-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![LLM](https://img.shields.io/badge/Large_Language_Models-IBM-6366F1?style=for-the-badge)
-
-- 🧩 Solved **150+ LeetCode problems** — arrays, linked lists, trees, graphs, binary search, dynamic programming.
-- 🛠️ Attended technical workshops on Web Development, Generative AI, Cloud Computing, and Artificial Intelligence.
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,12,23&height=70&section=header&text=2026%20AI%20%2B%20Cloud%20Roadmap&fontSize=26&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
-
-## 🗺️ 2026 AI/Cloud Roadmap
-
-> My plan for going from full-stack developer → AI + Cloud engineer, one phase at a time. Each phase ends with real projects, not just theory.
-
-```mermaid
-graph TD
-    P0[Phase 0: Foundations<br/>Python · Git/GitHub · Linux · SQL] --> P1[Phase 1: How Software Works<br/>HTTP · REST · FastAPI]
-    P1 --> P2[Phase 2: Math for AI<br/>Linear Algebra · Probability · Stats]
-    P2 --> P3[Phase 3: Machine Learning<br/>scikit-learn]
-    P3 --> P4[Phase 4: Deep Learning<br/>PyTorch · CNNs · Transformers]
-    P4 --> P5[Phase 5: Cloud Engineering<br/>AWS: EC2 · S3 · RDS · IAM · VPC]
-    P5 --> P6[Phase 6: Generative AI<br/>LLMs · RAG · Vector DBs · Fine-tuning]
-    P6 --> P7[Phase 7: Docker & Containers]
-    P7 --> P8[Phase 8: MLOps<br/>CI/CD · MLflow · Monitoring]
-    P8 --> P9[Phase 9: Kubernetes<br/>Pods · Services · Scaling]
-    P9 --> P10[Phase 10: Startup-Grade Portfolio]
-
-    style P0 fill:#0EA5E9,color:#fff
-    style P1 fill:#22C55E,color:#fff
-    style P2 fill:#EAB308,color:#000
-    style P3 fill:#F97316,color:#fff
-    style P4 fill:#EF4444,color:#fff
-    style P5 fill:#EC4899,color:#fff
-    style P6 fill:#8B5CF6,color:#fff
-    style P7 fill:#06B6D4,color:#fff
-    style P8 fill:#3B82F6,color:#fff
-    style P9 fill:#6366F1,color:#fff
-    style P10 fill:#9333EA,color:#fff
-```
-
-<details>
-<summary><b>🔍 Click to expand the full phase-by-phase breakdown</b></summary>
 
 <br>
 
-**Phase 0 — Build the Foundation**
-- **Python:** variables, data types, functions, OOP, file handling, exception handling, modules, virtual environments → *Expense tracker, Student management system, File organizer*
-- **Git & GitHub:** repositories, commits, branches, merges, pull requests — every project goes on GitHub
-- **Linux:** navigation, permissions, processes, shell scripting (`ls`, `cd`, `mkdir`, `rm`, `grep`, `chmod`, `ps`, `kill`)
-- **SQL:** `SELECT`, `WHERE`, `GROUP BY`, `JOIN`, indexes on PostgreSQL → *Student database system*
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00F5D4,100:302B63&height=2&width=1000" />
+</div>
 
-**Phase 1 — Learn How Software Actually Works**
-- HTTP, REST APIs, JSON, authentication, backend fundamentals with **FastAPI**
-- Architecture: `Frontend → API → Database`
-- Projects: *Notes app, Task manager*
+## 🚀 Featured Builds
 
-**Phase 2 — Mathematics for AI** *(in parallel)*
-- Linear algebra: vectors, matrices, dot product
-- Probability: conditional probability, Bayes' theorem
-- Statistics: mean, variance, standard deviation
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🗂️ TaskFlow
+**Full-stack task manager**
+
+11 REST endpoints, JWT auth, bcrypt hashing, protected routes, raw-SQL SQLite schema for users & tasks. React frontend wired to FastAPI via Axios for full CRUD.
+
+`React` `FastAPI` `SQLite` `JWT`
+
+**[→ view source](https://github.com/pallasahitya/TaskFlow)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Study Assistant
+**Context-aware LLM assistant**
+
+Built on Gemini 2.5 Flash with prompt engineering + a PyMuPDF pipeline for document-grounded Q&A over uploaded PDFs. React + Tailwind + Framer Motion, markdown rendering, syntax-highlighted code.
+
+`React` `FastAPI` `Gemini API` `Tailwind`
+
+**[→ view source](https://github.com/pallasahitya/ai-study-assistant)**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`> next in queue:` **resume analyzer · RAG chatbot · AI agent system**
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:302B63,100:00F5D4&height=2&width=1000" />
+</div>
+
+## 💼 Experience Log
+
+<table width="100%">
+<tr><td width="15%"><b>Mar 2026</b></td><td><b>Python Fullstack Developer Intern</b> — Industry Internship Program<br/><sub>Built React UI wired to FastAPI backends with form validation and DB-driven CRUD. Designed database schemas, REST APIs, and responsive frontend features.</sub></td></tr>
+<tr><td width="15%"><b>Dec 2025</b></td><td><b>Google AIML Intern</b> — Industry Internship Program<br/><sub>Trained & evaluated supervised ML models — preprocessing, feature engineering, cross-validation, classification metrics. Studied transformer architecture & LLM inference hands-on.</sub></td></tr>
+</table>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00F5D4,100:302B63&height=2&width=1000" />
+</div>
+
+## 🏅 Certifications
+
+<div align="center">
+
+![IBM](https://img.shields.io/badge/IBM_SkillBuild-0F0C29?style=for-the-badge&logo=ibm&logoColor=00F5D4)
+![Salesforce](https://img.shields.io/badge/Salesforce-0F0C29?style=for-the-badge&logo=salesforce&logoColor=00F5D4)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-0F0C29?style=for-the-badge&logo=servicenow&logoColor=00F5D4)
+![GoogleCloud](https://img.shields.io/badge/Google_Cloud_Skills_Boost-0F0C29?style=for-the-badge&logo=googlecloud&logoColor=00F5D4)
+![SQL](https://img.shields.io/badge/SQL_Cognitiveclass-0F0C29?style=for-the-badge&logo=postgresql&logoColor=00F5D4)
+![LLM](https://img.shields.io/badge/LLMs_—_IBM-0F0C29?style=for-the-badge&logoColor=00F5D4)
+
+**150+ LeetCode problems cleared** — arrays · linked lists · trees · graphs · binary search · DP
+Workshops attended: Web Dev · Generative AI · Cloud Computing · AI
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:302B63,100:00F5D4&height=2&width=1000" />
+</div>
+
+## 🗺️ 2026 Roadmap → AI + Cloud Engineer
+
+<details open>
+<summary><b>▸ click to collapse the full flight path</b></summary>
+
+<br>
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#0F0C29','primaryTextColor':'#00F5D4','lineColor':'#00F5D4','secondaryColor':'#302B63','tertiaryColor':'#24243e'}}}%%
+graph LR
+    P0[Foundations] --> P1[APIs & FastAPI]
+    P1 --> P2[Math for AI]
+    P2 --> P3[Machine Learning]
+    P3 --> P4[Deep Learning]
+    P4 --> P5[Cloud · AWS]
+    P5 --> P6[Generative AI]
+    P6 --> P7[Docker]
+    P7 --> P8[MLOps]
+    P8 --> P9[Kubernetes]
+    P9 --> P10[Portfolio]
+```
+
+**Phase 0 — Foundations**
+Python (OOP, file/exception handling, venvs) · Git/GitHub · Linux shell · SQL joins & indexing → *Expense tracker, Student DB system*
+
+**Phase 1 — How Software Works**
+HTTP, REST, JSON, auth, FastAPI · `Frontend → API → DB` → *Notes app, Task manager*
+
+**Phase 2 — Math for AI** *(parallel track)*
+Linear algebra · probability & Bayes' theorem · statistics
 
 **Phase 3 — Machine Learning**
-- Framework: **scikit-learn**
-- Regression, classification, clustering, evaluation metrics
-- Beginner: *House price prediction, Student marks prediction*
-- Intermediate: *Spam classifier, Customer churn prediction*
+scikit-learn · regression, classification, clustering → *House price predictor, Spam classifier, Churn prediction*
 
 **Phase 4 — Deep Learning**
-- Framework: **PyTorch**
-- Neural networks, backpropagation, CNNs, Transformers
-- Projects: *Image classifier, Handwritten digit recognition*
+PyTorch · CNNs · Transformers → *Image classifier, Digit recognition*
 
-**Phase 5 — Cloud Engineering (AWS)**
-- Compute: EC2, Lambda · Storage: S3 · Database: RDS · Security: IAM · Networking: VPC
-- Project: *Deploy a web application*
+**Phase 5 — Cloud (AWS)**
+EC2 · Lambda · S3 · RDS · IAM · VPC → *Deploy a web app*
 
 **Phase 6 — Generative AI**
-- LLMs, embeddings, vector databases, RAG, fine-tuning basics
-- Tools: Hugging Face, OpenAI Platform
-- Projects: *PDF chatbot (upload → ask questions), AI Study Assistant, Research Assistant*
+LLMs · embeddings · vector DBs · RAG · fine-tuning → *PDF chatbot, AI Study Assistant, Research Assistant*
 
-**Phase 7 — Docker & Containers**
-- Images, containers, Docker Compose
-- Project: *Containerize the AI chatbot*
+**Phase 7 — Docker**
+Images, containers, Compose → *Containerize the chatbot*
 
 **Phase 8 — MLOps**
-- CI/CD, monitoring, model deployment, experiment tracking
-- Tools: MLflow, GitHub Actions
+CI/CD, MLflow, monitoring, GitHub Actions
 
 **Phase 9 — Kubernetes**
-- Pods, services, deployments, scaling
-- Project: *Deploy AI services on a cluster*
+Pods, services, deployments, scaling → *Deploy AI services on a cluster*
 
-**Phase 10 — Build a Startup-Grade Portfolio**
-By graduation, aim for one solid project in each of:
-- **AI Project:** Resume Analyzer
-- **Cloud Project:** AWS-hosted application
-- **LLM Project:** RAG chatbot
-- **MLOps Project:** Automated deployment pipeline
-- **Advanced Project:** AI agent system
+**Phase 10 — Startup-Grade Portfolio**
+One flagship project each in: AI (Resume Analyzer) · Cloud (AWS-hosted app) · LLM (RAG chatbot) · MLOps (auto pipeline) · Advanced (AI agent system)
 
 </details>
 
----
+<br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,23,6&height=70&section=header&text=GitHub%20Stats&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00F5D4,100:302B63&height=2&width=1000" />
 </div>
 
-## 📊 GitHub Stats
+## 📡 Live Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pallasahitya&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=pallasahitya&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=pallasahitya&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0F0C29&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=pallasahitya&theme=highcontrast&hide_border=true&background=0F0C29&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" width="48%" />
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallasahitya&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0F0C29&title_color=00F5D4&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pallasahitya&theme=react-dark&bg_color=0F0C29&color=00F5D4&line=00F5D4&point=ffffff&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallasahitya&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pallasahitya&theme=tokyo-night&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pallasahitya&theme=dark" width="0" height="0" style="display:none" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=pallasahitya&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" />
 
 </div>
 
----
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:302B63,100:00F5D4&height=2&width=1000" />
+</div>
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" width="70%" />
+<br>
+
+```
+> connection established. let's build something.
+```
+
+[![Gmail](https://img.shields.io/badge/SAY_HELLO-00F5D4?style=for-the-badge&logo=gmail&logoColor=0F0C29)](mailto:pallasahitya4@gmail.com)
+[![GitHub](https://img.shields.io/badge/FOLLOW-00F5D4?style=for-the-badge&logo=github&logoColor=0F0C29)](https://github.com/pallasahitya)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-00F5D4?style=for-the-badge&logo=linkedin&logoColor=0F0C29)](https://www.linkedin.com/in/sahityapalla/)
 
 <br>
 
-### 🌟 *"Every phase completed is a project shipped, not just a topic checked off."*
-
-<br>
-
-### 🤝 Let's Connect
-
-[![Gmail](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallasahitya4@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pallasahitya)
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,17,23&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75" />
-
-**⭐️ From [pallasahitya](https://github.com/pallasahitya) — Made with 💙 in Markdown**
-
-<img src="https://komarev.com/ghpvc/?username=pallasahitya&label=Profile%20Views&color=0EA5E9&style=flat-square" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=150&section=footer&text=thanks%20for%20stopping%20by&fontSize=28&fontColor=00F5D4&fontAlignY=75" width="100%" />
 
 </div>
