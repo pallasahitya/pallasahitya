@@ -39,40 +39,6 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,6,12&height=70&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
-## 👋 About Me
-
-```python
-class Sivani:
-    def __init__(self):
-        self.name = "Palla Sivani Sahitya"
-        self.role = "CS Undergraduate | Software Engineering & AI"
-        self.education = "B.Tech CSE, Pragati Engineering College, Surampalem (2024 - Present)"
-        self.cgpa = "8.57 / 10"
-
-        self.currently_building = [
-            "🔐 Secure full-stack apps with FastAPI + React + JWT",
-            "🤖 LLM-powered tools using the Groq API & prompt engineering",
-            "📄 PDF-aware AI assistants (RAG-style document Q&A)",
-        ]
-
-        self.stack = {
-            "languages": ["Python", "C++", "C", "JavaScript"],
-            "frameworks": ["FastAPI", "React.js", "Pydantic", "Tailwind CSS", "Framer Motion"],
-            "backend": ["REST APIs", "JWT Auth", "Swagger/OpenAPI", "Async Programming"],
-            "data": ["SQL", "SQLite"],
-            "ai_ml": ["Groq LLM API", "Prompt Engineering", "ML Fundamentals"],
-            "tools": ["Linux", "Git", "GitHub", "Postman"],
-            "core_cs": ["DSA", "OOP", "DBMS", "System Design"],
-        }
-
-        self.currently_learning = "AI + Cloud Engineering roadmap (Python → ML → DL → AWS → GenAI → MLOps)"
-        self.fun_fact = "Solved 150+ LeetCode problems, one grind session at a time 🧩"
-
-    def say_hi(self):
-        return "Always happy to talk code, AI, or internships!"
-```
-
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,17&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
