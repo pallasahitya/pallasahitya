@@ -4,9 +4,6 @@
   Computer Science Student • Backend Developer • Learning AI & Cloud
 </p>
 
-<p align="center">
-  <img src="https://tenor.com/en-IN/view/froggie-gif-20231105" width="180" alt="cute frog"/>
-</p>
 
 ---
 
