@@ -1,31 +1,47 @@
 <div align="center">
 
-# Sivani Sahitya Palla
+# Hi, I'm Sivani Sahitya Palla
 
-CSE Student · Backend & Full-Stack Development · Applied AI
+### CSE Student · Backend & Full-Stack Development · Applied AI
 
-[Email](mailto:pallasahitya4@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sahityapalla/) · [LeetCode](https://leetcode.com/u/sahityapalla/)
+<p>
+  <a href="mailto:pallasahitya4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sahityapalla/">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/sahityapalla/">
+    <img src="https://img.shields.io/badge/LeetCode-333333?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
-<br>
-
-## About
+&nbsp;
 
 I build full-stack applications and backend APIs, and I'm currently going deeper into AI, cloud infrastructure, and data structures & algorithms. Open to internships and collaborations in AI or backend engineering.
 
-<br>
+&nbsp;
 
-## Tech Stack
+### Tech Stack
 
-**Languages** — Python · C++ · C · JavaScript
-**Frameworks** — FastAPI · React · Tailwind CSS · Pydantic
-**Data / Infra** — PostgreSQL · SQLite · JWT · Linux
-**AI / ML** — PyTorch · Scikit-learn · Prompt Engineering · Groq (LLM API)
+<p>
+  <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-333333?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-333333?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-333333?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-333333?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-333333?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-333333?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white" />
+</p>
 
-<br>
+&nbsp;
 
-## Featured Projects
+### Featured Projects
 
 **[TaskFlow](https://github.com/pallasahitya/TaskFlow)** — Full-stack task manager
 11 REST endpoints, JWT authentication, bcrypt password hashing, and protected routes. Raw-SQL SQLite schema for users and tasks, with a React frontend wired to FastAPI via Axios for full CRUD.
@@ -35,40 +51,40 @@ I build full-stack applications and backend APIs, and I'm currently going deeper
 Built on Gemini 2.5 Flash with a PyMuPDF pipeline for document-grounded Q&A over uploaded PDFs. React + Tailwind frontend with markdown rendering and syntax-highlighted code.
 `React` `FastAPI` `Gemini API` `Tailwind`
 
-*Next up: resume analyzer · RAG chatbot · AI agent system*
+*Next up — resume analyzer · RAG chatbot · AI agent system*
 
-<br>
+&nbsp;
 
-## Experience
+### Experience
 
-| Period | Role |
+| | |
 |---|---|
-| Mar 2026 | **Python Fullstack Developer Intern**, Industry Internship Program — built React UIs wired to FastAPI backends with form validation and DB-driven CRUD; designed database schemas and REST APIs |
-| Dec 2025 | **Google AIML Intern**, Industry Internship Program — trained and evaluated supervised ML models (preprocessing, feature engineering, cross-validation); studied transformer architecture and LLM inference |
+| **Mar 2026** | **Python Fullstack Developer Intern**, Industry Internship Program — built React UIs wired to FastAPI backends with form validation and DB-driven CRUD; designed database schemas and REST APIs |
+| **Dec 2025** | **Google AIML Intern**, Industry Internship Program — trained and evaluated supervised ML models (preprocessing, feature engineering, cross-validation); studied transformer architecture and LLM inference |
 
-<br>
+&nbsp;
 
-## Certifications
+### Certifications
 
 IBM SkillsBuild · Salesforce · ServiceNow · Google Cloud Skills Boost · SQL (Cognitive Class) · LLMs (IBM)
 
 150+ LeetCode problems solved — arrays, linked lists, trees, graphs, binary search, DP
-Workshops: Web Development · Generative AI · Cloud Computing · AI
+Workshops attended: Web Development · Generative AI · Cloud Computing · AI
 
-<br>
+&nbsp;
 
-## 2026 Roadmap
+### 2026 Roadmap → AI + Cloud Engineer
 
-`Foundations → APIs & FastAPI → Math for AI → Machine Learning → Deep Learning → Cloud (AWS) → Generative AI → Docker → MLOps → Kubernetes → Portfolio`
+Foundations → APIs & FastAPI → Math for AI → Machine Learning → Deep Learning → Cloud (AWS) → Generative AI → Docker → MLOps → Kubernetes → Portfolio
 
-Currently working through this path toward AI + Cloud engineering, building a project at each stage (expense tracker → spam classifier → digit recognizer → RAG chatbot → containerized deployments → k8s-hosted AI services).
+Working through this path one project at a time — expense tracker → spam classifier → digit recognizer → RAG chatbot → containerized deployments → Kubernetes-hosted AI services.
 
-<br>
-
----
+&nbsp;
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallasahitya&show_icons=true&theme=default&hide_border=true)](https://github.com/pallasahitya)
+&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api?username=pallasahitya&show_icons=true&theme=default&hide_border=true&hide_title=true" height="165"/>
 
 </div>
