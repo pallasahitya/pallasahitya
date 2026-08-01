@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/1R8l6Y5K0N0AAAAi/frog.gif" width="180" alt="cute frog"/>
+  <img src="https://tenor.com/en-IN/view/froggie-gif-20231105" width="180" alt="cute frog"/>
 </p>
 
 ---
